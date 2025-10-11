@@ -22,9 +22,9 @@ Hãy tìm số lượng người tối đa mà bạn có thể sai thải !!
 - Gồm một số nguyên là số lượng người tối đa mà bạn có thể sa thải.
 
 ## Giới hạn:
-- Subtask 1$(20\%$ điểm$)$ : $n \le 18$.
-- Subtask 2$(20\%$ điểm$)$ : $n \le 676767, m\le 369$.
-- Subtask 3$(60\%$ điểm$)$ : Không có ràng buộc.
+- Subtask 1(2 điểm) : $n \le 18$.
+- Subtask 2(2 điểm) : $n \le 676767, m\le 369$.
+- Subtask 3(6 điểm) : Không có ràng buộc.
 - Trong mọi bộ test : $n \le 696969; m \le 36363636;0 \le c_i \le m;0\le w_i \le m$.
 
 ## Ví dụ:
