@@ -12,6 +12,7 @@ Bạn được giao nhiệm vụ cắt giảm nhân sự. Bạn có thể chọn
 - Đồng thời, khối lượng công việc của người bị sa thải cũng sẽ được chuyển giao cho quản lý của người đó.
 - Công ty sẽ không muốn nhân viên của mình phải chịu quá nhiều trách nhiệm nên trong mọi thời điểm, độ ~~pc~~ phức tạp công việc của mỗi nhân viên không được vượt quá mức pickle ball $m$.
 - Hiển nhiên, nhân viên có chỉ số $1$ là CEO của công ty nên bạn không thể sa thải.
+  
 Hãy tìm số lượng người tối đa mà bạn có thể sai thải !!
 ## Input : 
 - Dòng đầu gồm $2$ số nguyên $n$, $m$.
