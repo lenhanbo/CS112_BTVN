@@ -1,6 +1,10 @@
 ## Đề bài:
-Bạn đang làm ở văn phòng quản lý nhân sự ở trong một công ty gồm $n$ người. Mỗi nhân viên sẽ có chính xác một người là quản lý của mình trừ nhân viên có chỉ số $1$. 
+Bạn đang làm ở văn phòng quản lý nhân sự ở trong một công ty gồm $n$ người. 
+
+Mỗi nhân viên sẽ có chính xác một người là quản lý của mình trừ nhân viên có chỉ số $1$. 
+
 Người thứ $i$ sẽ có một khối lượng công việc $w_i$. 
+
 Định nghĩa chỉ số phức tạp công việc của người thứ $i$ là $C_i = \sum_{j} w_j + 1$ trong đó $j$ là nhân viên mà $i$ quản lý.
 
 Bạn được giao nhiệm vụ cắt giảm nhân sự. Bạn có thể chọn một vài người để sa thải khỏi công ty. 
