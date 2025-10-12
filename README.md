@@ -32,7 +32,7 @@ Hãy tìm số lượng người tối đa mà bạn có thể sai thải !!
 ### Input 
 ```
 4 6 
-0 6 2 3
+0 6 2 2
 1
 1
 3
