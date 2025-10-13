@@ -26,7 +26,7 @@ Hãy tìm số lượng người tối đa mà bạn có thể sai thải !!
 - Subtask 1(2 điểm) : $n \le 18$.
 - Subtask 2(2 điểm) : $n \le 676767, m\le 369$.
 - Subtask 3(6 điểm) : Không có ràng buộc.
-- Trong mọi bộ test : $n \le 696969; m \le 36363636;0 \le c_i \le m;0\le w_i \le m$.
+- Trong mọi bộ test : $n \le 696969; m \le 36363636;0 \le c_i \le m;0\le w_i \le m$, $p_i \le i$.
 
 ## Ví dụ:
 ### Input 
